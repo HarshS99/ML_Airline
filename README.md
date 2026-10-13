@@ -3,10 +3,6 @@
 ### A Machine Learning–powered web application that predicts whether an airline customer is satisfied or dissatisfied based on flight experience, service quality, and travel details. 
 ### The model was trained on the Kaggle Airline Passenger Satisfaction dataset, evaluated using multiple ML classification algorithms, and the best-performing model (LightGBM) was selected and deployed using Streamlit.
 
-# 🚀 Live Demo
-
-(https://vphxk2sffzpk6deparqqrz.streamlit.app/)
-
 # 🧠 Machine Learning Pipeline
 
 ### 1.Dataset Collection
